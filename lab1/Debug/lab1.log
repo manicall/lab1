@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+C:\Users\max\source\repos\lab1\lab1\lab1.cpp(14,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\max\source\repos\lab1\lab1\lab1.cpp(14,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\max\source\repos\lab1\lab1\lab1.cpp(167,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1.vcxproj -> C:\Users\max\source\repos\lab1\Debug\lab1.exe

@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+C:\Users\max\source\repos\lab1\lab2\lab2.cpp(60,15): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\max\source\repos\lab1\lab2\lab2.cpp(60,18): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\max\source\repos\lab1\lab2\lab2.cpp(108,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\max\source\repos\lab1\lab2\lab2.cpp(113,22): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.vcxproj -> C:\Users\max\source\repos\lab1\Debug\lab2.exe
